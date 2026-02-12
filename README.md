@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Alam  
 
-<!--
-**Amankhan1009/Amankhan1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 About Me  
+- 🎓 Computer Science student  
+- 📊 Passionate about **Machine Learning, Data Science & GenAI**  
+- 🔎 Exploring real-world use cases of **LLMs, LangChain & RAG**  
+- 🛠 Building data-driven apps using **Python, SQL & Streamlit**  
+- ☁️ Learning **Docker, Jenkins & cloud basics**  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Looking For  
+- 🤝 Internship / R&D opportunities in **ML, Data Science & GenAI**  
+- 🧠 Collaborations on **AI-powered apps & data projects**  
+- 📈 Projects where I can apply ML to solve practical problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Languages:** Python, Java, SQL  
+- **ML / Data Science:** Pandas, NumPy, Scikit-learn, Jupyter Notebook  
+- **GenAI / LLMs:** LangChain, RAG (Retrieval-Augmented Generation), Prompt Engineering, Groq LLM APIs  
+- **Computer Vision:** YOLOv11 (Object Detection), OpenCV, Image Processing, Model Training & Inference  
+- **Backend / APIs:** FastAPI, Flask  
+- **Databases:** MySQL, SQLite, MongoDB  
+- **DevOps / Tools:** Git, GitHub, Docker, Jenkins(Basics)  
+- **Web / UI:** Streamlit, Bootstrap  
+- **Cloud:** AWS(Basics)  
+
+
+## 📌 Featured Projects  
+- 💬 **NL-to-SQL Chatbot (GenAI)** – Built a LangChain + Streamlit chatbot that converts natural language into SQL to query SQLite/MySQL databases using LLMs (Groq).  
+- 🔎 **Search Engine with LangChain (GenAI/RAG)** – Implemented retrieval-based semantic search using embeddings + vector search for accurate document querying.  
+- 🌲 **Project Green Vision (ML)** – Developed a FastAPI ML web app to predict forest cover types using cartographic features; designed modular training/inference pipelines with MongoDB & AWS S3 integration.  
+- ✋ **Rock-Paper-Scissors Detector (Computer Vision)** – Trained a custom YOLOv11n model for real-time hand gesture detection and deployed it with Streamlit.  
+- 📚 **Book Recommender System (ML)** – Built a recommendation system using user ratings & popularity signals; served via Flask with Pandas-based data pipelines.  
+- 🛍️ **Myntra Review Scraper (Data Collection / NLP-ready)** – Automated scraping & analysis of e-commerce reviews to extract ratings and insights for downstream sentiment analysis.  
+
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankhan1009&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankhan1009&layout=compact&theme=tokyonight)
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-aman-alam-a04552289/  
+- 📧 Email: amankhan34356@gmail.com
+
+⭐ *Open to collaborations and learning opportunities in AI & Data!*  
