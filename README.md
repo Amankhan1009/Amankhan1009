@@ -33,13 +33,9 @@
 - 🛍️ **Myntra Review Scraper (Data Collection / NLP-ready)** – Automated scraping & analysis of e-commerce reviews to extract ratings and insights for downstream sentiment analysis.  
 
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankhan1009&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankhan1009&layout=compact&theme=tokyonight)
-
 ## 📫 Connect With Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/md-aman-alam-a04552289/  
-- 📧 Email: amankhan34356@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-aman-alam-a04552289/)  
+- 📧 [Gmail](amankhan34356@gmail.com)  
+- 🧑‍💻 [GitHub](https://github.com/Amankhan1009)  
 
 ⭐ *Open to collaborations and learning opportunities in AI & Data!*  
