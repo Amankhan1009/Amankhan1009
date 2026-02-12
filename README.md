@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Alam  
+# 👋 Hi, I'm Md Aman Alam  
 
 ## 🤖 About Me  
 - 🎓 Computer Science student  
