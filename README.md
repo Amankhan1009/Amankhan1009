@@ -21,7 +21,7 @@
 - **Databases:** MySQL, SQLite, MongoDB  
 - **DevOps / Tools:** Git, GitHub, Docker, Jenkins(Basics)  
 - **Web / UI:** Streamlit, Bootstrap  
-- **Cloud:** AWS(Basics)  
+- **Cloud:** AWS, Microsoft Azure(Basics)  
 
 
 ## 📌 Featured Projects  
