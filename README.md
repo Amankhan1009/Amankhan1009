@@ -5,37 +5,98 @@
 - 📊 Passionate about **Machine Learning, Data Science & GenAI**  
 - 🔎 Exploring real-world use cases of **LLMs, LangChain & RAG**  
 - 🛠 Building data-driven apps using **Python, SQL & Streamlit**  
-- ☁️ Learning **Docker, Jenkins & cloud basics**  
+- ☁️ Actively learning and implementing **Cloud & DevOps practices**  
+
+---
 
 ## 🚀 What I'm Looking For  
 - 🤝 Internship / R&D opportunities in **ML, Data Science & GenAI**  
 - 🧠 Collaborations on **AI-powered apps & data projects**  
 - 📈 Projects where I can apply ML to solve practical problems  
 
-## 🔧 Tech Stack  
-- **Languages:** Python, Java, SQL  
-- **ML / Data Science:** Pandas, NumPy, Scikit-learn, Jupyter Notebook  
-- **GenAI / LLMs:** LangChain, RAG (Retrieval-Augmented Generation), Prompt Engineering, Groq LLM APIs  
-- **Computer Vision:** YOLOv11 (Object Detection), OpenCV, Image Processing, Model Training & Inference  
-- **Backend / APIs:** FastAPI, Flask  
-- **Databases:** MySQL, SQLite, MongoDB  
-- **DevOps / Tools:** Git, GitHub, Docker, Jenkins(Basics)  
-- **Web / UI:** Streamlit, Bootstrap  
-- **Cloud:** AWS, Microsoft Azure(Basics)  
+---
 
+## 🔧 Tech Stack  
+
+### 💻 Languages  
+- Python, Java, SQL  
+
+### 📊 ML / Data Science  
+- Pandas, NumPy, Scikit-learn, Jupyter Notebook  
+
+### 🤖 GenAI / LLMs  
+- LangChain, RAG (Retrieval-Augmented Generation)  
+- Prompt Engineering, Groq LLM APIs  
+
+### 👁 Computer Vision  
+- YOLOv11 (Object Detection)  
+- OpenCV, Image Processing  
+- Model Training & Inference  
+
+### ⚙️ Backend / APIs  
+- FastAPI, Flask  
+
+### 🗄 Databases  
+- MySQL, SQLite, MongoDB  
+
+### ☁️ Cloud & DevOps  
+- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC), Microsoft Azure (Basics)  
+- **Containerization:** Docker  
+- **Orchestration:** Kubernetes (Minikube, Deployments, Services, HPA)  
+- **CI/CD:** Jenkins (Pipeline creation, automation)  
+- **Infrastructure as Code:** Terraform  
+- **Monitoring & Scaling:** Auto Scaling Groups, Load Balancer (ALB)  
+- **Linux & Scripting:** Bash scripting  
+- **Security & Secrets:** HashiCorp Vault  
+- **Version Control:** Git, GitHub  
+
+### 🎨 Web / UI  
+- Streamlit, Bootstrap  
+
+---
 
 ## 📌 Featured Projects  
-- 💬 **NL-to-SQL Chatbot (GenAI)** – Built a LangChain + Streamlit chatbot that converts natural language into SQL to query SQLite/MySQL databases using LLMs (Groq).  
-- 🔎 **Search Engine with LangChain (GenAI/RAG)** – Implemented retrieval-based semantic search using embeddings + vector search for accurate document querying.  
-- 🌲 **Project Green Vision (ML)** – Developed a FastAPI ML web app to predict forest cover types using cartographic features; designed modular training/inference pipelines with MongoDB & AWS S3 integration.  
-- ✋ **Rock-Paper-Scissors Detector (Computer Vision)** – Trained a custom YOLOv11n model for real-time hand gesture detection and deployed it with Streamlit.  
-- 📚 **Book Recommender System (ML)** – Built a recommendation system using user ratings & popularity signals; served via Flask with Pandas-based data pipelines.  
-- 🛍️ **Myntra Review Scraper (Data Collection / NLP-ready)** – Automated scraping & analysis of e-commerce reviews to extract ratings and insights for downstream sentiment analysis.  
 
+- 💬 **NL-to-SQL Chatbot (GenAI)**  
+  Built a LangChain + Streamlit chatbot that converts natural language into SQL queries using LLMs (Groq) for SQLite/MySQL databases.  
+
+- 🔎 **Search Engine with LangChain (GenAI/RAG)**  
+  Implemented semantic search using embeddings + vector databases for accurate document retrieval.  
+
+- 🌲 **Project Green Vision (ML + Cloud)**  
+  Developed a FastAPI ML web app for forest cover prediction with modular pipelines, MongoDB integration, and AWS S3 deployment.  
+
+- ✋ **Rock-Paper-Scissors Detector (Computer Vision)**  
+  Trained YOLOv11n model for real-time gesture detection and deployed with Streamlit.  
+
+- 📚 **Book Recommender System (ML)**  
+  Built a recommendation system using collaborative filtering & popularity-based methods.  
+
+- 🛍️ **Myntra Review Scraper (Data/NLP)**  
+  Automated scraping pipeline for e-commerce reviews for sentiment-ready datasets.  
+
+- ☁️ **Scalable Flask App Deployment (DevOps Project)**  
+  - Deployed Flask app on AWS EC2  
+  - Configured Load Balancer + Auto Scaling  
+  - Implemented high availability architecture  
+  - Used Launch Templates & health checks  
+
+- ⚙️ **Kubernetes Autoscaling Project**  
+  - Created deployments with resource limits  
+  - Configured Horizontal Pod Autoscaler (HPA)  
+  - Simulated load for scaling validation  
+
+- 🔐 **Vault-Based Secure App (DevOps Security)**  
+  - Integrated HashiCorp Vault for secret management  
+  - Securely fetched credentials in runtime scripts  
+
+---
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-aman-alam-a04552289/)  
-- 📧 [Gmail](amankhan34356@gmail.com)  
+- 📧 [Gmail](mailto:amankhan34356@gmail.com)  
 - 🧑‍💻 [GitHub](https://github.com/Amankhan1009)  
 
-⭐ *Open to collaborations and learning opportunities in AI & Data!*  
+---
+
+⭐ *Open to collaborations and opportunities in AI, Cloud & DevOps!*  
