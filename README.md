@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md Aman Alam  
 
 ## 🤖 About Me  
-- 🎓 Computer Science student  
+- 🎓 Computer Science graduate, 2026  
 - 📊 Passionate about **Machine Learning, Data Science & GenAI**  
 - 🔎 Exploring real-world use cases of **LLMs, LangChain & RAG**  
 - 🛠 Building data-driven apps using **Python, SQL & Streamlit**  
