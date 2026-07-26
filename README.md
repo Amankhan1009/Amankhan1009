@@ -9,15 +9,15 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 </p>
 
 <p align="center">
-  <a href="mailto:amankhan34356@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-aman-alam-a04552289">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Amankhan1009">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:amankhan34356@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/md-aman-alam-a04552289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Amankhan1009">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 - 🧠 Building production-ready **AI Agents, MCP Servers & RAG Applications**
 - ⚡ Developing scalable backend systems using **Python & FastAPI**
 - ☁️ Exploring **Cloud, DevOps & Platform Engineering**
-- 🌱 Love building real-world AI products and contributing to open source
+- 🌱 Open Source Enthusiast & Continuous Learner
 
 ---
 
@@ -48,7 +48,7 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 ![LangGraph](https://img.shields.io/badge/LangGraph-00C853?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-5E35B1?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-1565C0?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
@@ -77,33 +77,32 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Current Focus
 
-| Project | Tech |
-|---------|------|
-| 🤖 Multi-Agent DevOps AI Copilot | LangGraph • FastAPI • Docker |
-| 🌦️ Weather MCP Server | MCP • FastAPI • OpenWeather • Docker |
-| 📂 AI File Assistant | LangGraph • Tools • SQLite |
-| 💬 Customer Support Agent | LangGraph • Routing • LLM |
-| 📝 Todo AI Agent | LangGraph • SQLite |
-| 💬 NL-to-SQL Chatbot | LangChain • Groq • Streamlit |
-| 📚 AI Tutor (Hybrid RAG) | LangChain • Pinecone • Groq |
-| 🔍 Semantic Search Engine | LangChain • Embeddings |
-| 🌲 Forest Cover Prediction | FastAPI • AWS • MongoDB |
-| ✋ Rock Paper Scissors Detector | YOLOv11 • OpenCV |
+- 🤖 Building **Production-Ready AI Agents**
+- 🔗 Developing **Model Context Protocol (MCP) Servers**
+- 🧠 Designing **Multi-Agent Systems with LangGraph**
+- 📚 Building **Retrieval-Augmented Generation (RAG)** Applications
+- ☁️ Learning **Cloud Native AI & Platform Engineering**
+- ⚙️ Automating Development Workflows using **AI + DevOps**
 
 ---
 
-## 📈 GitHub Statistics
+# ⭐ Featured Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amankhan1009&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Amankhan1009&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description |
+|---------|-------------|
+| 🤖 Multi-Agent DevOps AI Copilot | AI-powered DevOps assistant built with LangGraph |
+| 🌦️ Weather MCP Server | Production-ready MCP server with weather tools |
+| 📂 AI File Assistant | Intelligent file management using LangGraph |
+| 💬 Customer Support AI Agent | Multi-workflow customer support assistant |
+| 📝 Todo AI Agent | AI-powered task management assistant |
+| 💬 NL-to-SQL Chatbot | Natural language to SQL using LLMs |
+| 📚 AI Tutor (Hybrid RAG) | Personalized learning assistant using RAG |
+| 🔍 Semantic Search Engine | AI-powered document search with LangChain |
+| 🌲 Forest Cover Prediction | ML pipeline with FastAPI & AWS |
+| ✋ Rock Paper Scissors Detector | YOLOv11 real-time gesture detection |
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankhan1009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 ---
 
 # 🌐 Connect With Me
@@ -131,5 +130,5 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
