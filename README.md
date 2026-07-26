@@ -92,16 +92,16 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 
 | Project | Description |
 |---------|-------------|
-| 🤖 Multi-Agent DevOps AI Copilot | AI-powered DevOps assistant built with LangGraph |
-| 🌦️ Weather MCP Server | Production-ready MCP server with weather tools |
-| 📂 AI File Assistant | Intelligent file management using LangGraph |
-| 💬 Customer Support AI Agent | Multi-workflow customer support assistant |
-| 📝 Todo AI Agent | AI-powered task management assistant |
-| 💬 NL-to-SQL Chatbot | Natural language to SQL using LLMs |
-| 📚 AI Tutor (Hybrid RAG) | Personalized learning assistant using RAG |
-| 🔍 Semantic Search Engine | AI-powered document search with LangChain |
-| 🌲 Forest Cover Prediction | ML pipeline with FastAPI & AWS |
-| ✋ Rock Paper Scissors Detector | YOLOv11 real-time gesture detection |
+| 🌦️ **[Weather MCP Server](https://github.com/Amankhan1009/weather-mcp-server)** | Production-ready MCP server built with FastAPI, Docker, OpenWeather API, and AI-powered tool integration. |
+| 🤖 **[Multi-Agent DevOps AI Copilot](https://github.com/Amankhan1009/devops-ai-copilot)** | Production-style DevOps assistant using LangGraph, AI agents, FastAPI, Docker, and repository analysis. |
+| 📂 **[AI File Assistant](https://github.com/Amankhan1009/File-Assistant-Agent)** | Intelligent file management assistant built with LangGraph, tool calling, and SQLite. |
+| 💬 **[Customer Support AI Agent](https://github.com/Amankhan1009/customer-support-agent)** | Multi-agent customer support system with intelligent routing, workflows, and LLM-powered responses. |
+| 📝 **[Todo AI Agent](https://github.com/Amankhan1009/todo-agent)** | AI-powered task management application built with LangGraph, SQLite, and conversational workflows. |
+| 📚 **[EDUGEN AI](https://github.com/Amankhan1009/EDUGEN-AI)** | Personalized AI tutor using Hybrid RAG, Groq LLM, LangChain, and Pinecone vector search. |
+| 💬 **[NL-to-SQL Chatbot](https://github.com/Amankhan1009/NL-to-SQL-Chatbot)** | Converts natural language into SQL queries using LangChain, Groq, and Streamlit. |
+| 🔍 **[Search Engine with LangChain](https://github.com/Amankhan1009/Search-Engine-With-Langchain)** | Semantic document search powered by embeddings, vector search, and LangChain. |
+| 🌲 **[Project Green Vision](https://github.com/Amankhan1009/Project-Green-Vision)** | Forest cover prediction system using Machine Learning, FastAPI, MongoDB, and AWS deployment. |
+| ✋ **[Rock Paper Scissors Detector](https://github.com/Amankhan1009/Rock-Paper-Scissors-Detector)** | Real-time gesture recognition using YOLOv11, OpenCV, and Streamlit. |
 
 ---
 
