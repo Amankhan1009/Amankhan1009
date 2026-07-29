@@ -18,7 +18,18 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 <a href="https://github.com/Amankhan1009">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://portfolio-tau-seven-apt5vzjy71.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
+
+---
+
+# 🌐 My Portfolio
+
+Explore my projects, skills, experience, and resume:
+
+👉 [Visit my portfolio](https://portfolio-tau-seven-apt5vzjy71.vercel.app/)
 
 ---
 
@@ -50,7 +61,7 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 ![RAG](https://img.shields.io/badge/RAG-1565C0?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 ### ⚙️ Backend
@@ -91,7 +102,7 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 # ⭐ Featured Projects
 
 | Project | Description |
-|---------|-------------|
+|---|---|
 | 🌦️ **[Weather MCP Server](https://github.com/Amankhan1009/weather-mcp-server)** | Production-ready MCP server built with FastAPI, Docker, OpenWeather API, and AI-powered tool integration. |
 | 🤖 **[Multi-Agent DevOps AI Copilot](https://github.com/Amankhan1009/devops-ai-copilot)** | Production-style DevOps assistant using LangGraph, AI agents, FastAPI, Docker, and repository analysis. |
 | 📂 **[AI File Assistant](https://github.com/Amankhan1009/File-Assistant-Agent)** | Intelligent file management assistant built with LangGraph, tool calling, and SQLite. |
@@ -121,6 +132,10 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://portfolio-tau-seven-apt5vzjy71.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -130,5 +145,5 @@ Building intelligent AI systems that solve real-world problems using LLMs, Agent
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, portfolio, and connect with me.
 </p>
