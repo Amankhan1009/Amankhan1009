@@ -101,8 +101,11 @@ Explore my projects, skills, experience, and resume:
 
 # ⭐ Featured Projects
 
+# ⭐ Featured Projects
+
 | Project | Description |
 |---|---|
+| 🛡️ **[AegisAI — Enterprise AI Operations Platform](https://github.com/Amankhan1009/aegis-ai)** | Production-style AI operations platform focused on secure, reliable, observable, cost-aware, and testable AI service delivery using FastAPI, Groq, PostgreSQL, Redis, Prometheus, OpenTelemetry, Docker, and GitHub Actions. [Live Dashboard](https://aman-aegis-ai.streamlit.app) · [API Docs](https://aegis-ai-api-u557.onrender.com/docs) |
 | 🌦️ **[Weather MCP Server](https://github.com/Amankhan1009/weather-mcp-server)** | Production-ready MCP server built with FastAPI, Docker, OpenWeather API, and AI-powered tool integration. |
 | 🤖 **[Multi-Agent DevOps AI Copilot](https://github.com/Amankhan1009/devops-ai-copilot)** | Production-style DevOps assistant using LangGraph, AI agents, FastAPI, Docker, and repository analysis. |
 | 📂 **[AI File Assistant](https://github.com/Amankhan1009/File-Assistant-Agent)** | Intelligent file management assistant built with LangGraph, tool calling, and SQLite. |
@@ -113,7 +116,6 @@ Explore my projects, skills, experience, and resume:
 | 🔍 **[Search Engine with LangChain](https://github.com/Amankhan1009/Search-Engine-With-Langchain)** | Semantic document search powered by embeddings, vector search, and LangChain. |
 | 🌲 **[Project Green Vision](https://github.com/Amankhan1009/Project-Green-Vision)** | Forest cover prediction system using Machine Learning, FastAPI, MongoDB, and AWS deployment. |
 | ✋ **[Rock Paper Scissors Detector](https://github.com/Amankhan1009/Rock-Paper-Scissors-Detector)** | Real-time gesture recognition using YOLOv11, OpenCV, and Streamlit. |
-
 ---
 
 # 🌐 Connect With Me
