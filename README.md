@@ -101,10 +101,9 @@ Explore my projects, skills, experience, and resume:
 
 # ⭐ Featured Projects
 
-# ⭐ Featured Projects
-
 | Project | Description |
 |---|---|
+| 🔎 **[Deepcite](https://github.com/Amankhan1009/Deepcite)** | Production-style AI research agent for multi-step web research using LangGraph, MCP, LLM reasoning, source verification, citations, and human-in-the-loop approval. |
 | 🛡️ **[AegisAI — Enterprise AI Operations Platform](https://github.com/Amankhan1009/aegis-ai)** | Production-style AI operations platform focused on secure, reliable, observable, cost-aware, and testable AI service delivery using FastAPI, Groq, PostgreSQL, Redis, Prometheus, OpenTelemetry, Docker, and GitHub Actions. [Live Dashboard](https://aman-aegis-ai.streamlit.app) · [API Docs](https://aegis-ai-api-u557.onrender.com/docs) |
 | 🌦️ **[Weather MCP Server](https://github.com/Amankhan1009/weather-mcp-server)** | Production-ready MCP server built with FastAPI, Docker, OpenWeather API, and AI-powered tool integration. |
 | 🤖 **[Multi-Agent DevOps AI Copilot](https://github.com/Amankhan1009/devops-ai-copilot)** | Production-style DevOps assistant using LangGraph, AI agents, FastAPI, Docker, and repository analysis. |
