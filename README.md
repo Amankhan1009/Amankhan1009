@@ -35,7 +35,7 @@ Explore my projects, skills, experience, and resume:
 
 # 🚀 About Me
 
-- 🎓 B.Tech Information Technology Graduate (2026)
+- 🎓 B.Tech **Information Technology** Graduate (2026)
 - 🤖 Passionate about **Machine Learning, Generative AI & Agentic AI**
 - 🧠 Building production-ready **AI Agents, MCP Servers & RAG Applications**
 - ⚡ Developing scalable backend systems using **Python & FastAPI**
